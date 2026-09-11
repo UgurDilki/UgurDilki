@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @UgurDilki
-- 👀 I’m interested in 
-- 🌱 I’m currently learning python
-
-- 📫 How to reach me ugurdilky@gmail.com
+- 👀 I’m interested in Deep Learning/Machine Learning.
+- 🌱 I’m currently advancing my Python skills and AI technologies.
+- 📫 How to reach me: ugurdilky@gmail.com
